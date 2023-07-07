@@ -156,7 +156,7 @@ input[type=number]{
 
 #popup{
 	display: none;
-	background-color: #021c12;
+	background-color: #32c8e6;
 	border-radius: 10px;
 	position:fixed;
 	top:50%;
@@ -188,9 +188,8 @@ input[type=number]{
 #popup button{
     float:right;
 	margin:10px 10px 0 0;
-    color: #190303;
+    color:black;
 	border-radius: 50%;
-    background: #0c0cde;
     border: none;
 	font-size: 20px;
 	font-weight: bold;
